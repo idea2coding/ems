@@ -1,0 +1,60 @@
+C:\Users\PaSiYa\Desktop\Project one\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe.config
+C:\Users\PaSiYa\Desktop\Project one\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe
+C:\Users\PaSiYa\Desktop\Project one\Employee Management System\Employee Management System\bin\Debug\Employee Management System.pdb
+C:\Users\PaSiYa\Desktop\Project one\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+C:\Users\PaSiYa\Desktop\Project one\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\PaSiYa\Desktop\Project one\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Login.resources
+C:\Users\PaSiYa\Desktop\Project one\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+C:\Users\PaSiYa\Desktop\Project one\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+C:\Users\PaSiYa\Desktop\Project one\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+C:\Users\PaSiYa\Desktop\Project one\Employee Management System\Employee Management System\obj\Debug\Employee Management System.exe
+C:\Users\PaSiYa\Desktop\Project one\Employee Management System\Employee Management System\obj\Debug\Employee Management System.pdb
+C:\Users\PaSiYa\Desktop\Project one\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Management_Employee.resources
+C:\Users\Ayisap Studio\Desktop\Project one\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe.config
+C:\Users\Ayisap Studio\Desktop\Project one\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe
+C:\Users\Ayisap Studio\Desktop\Project one\Employee Management System\Employee Management System\bin\Debug\Employee Management System.pdb
+C:\Users\Ayisap Studio\Desktop\Project one\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+C:\Users\Ayisap Studio\Desktop\Project one\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ayisap Studio\Desktop\Project one\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Login.resources
+C:\Users\Ayisap Studio\Desktop\Project one\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Management_Employee.resources
+C:\Users\Ayisap Studio\Desktop\Project one\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+C:\Users\Ayisap Studio\Desktop\Project one\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+C:\Users\Ayisap Studio\Desktop\Project one\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+C:\Users\Ayisap Studio\Desktop\Project one\Employee Management System\Employee Management System\obj\Debug\Employee Management System.exe
+C:\Users\Ayisap Studio\Desktop\Project one\Employee Management System\Employee Management System\obj\Debug\Employee Management System.pdb
+C:\Users\PaSiYa\Desktop\Desktop\Project one\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe.config
+C:\Users\PaSiYa\Desktop\Desktop\Project one\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe
+C:\Users\PaSiYa\Desktop\Desktop\Project one\Employee Management System\Employee Management System\bin\Debug\Employee Management System.pdb
+C:\Users\PaSiYa\Desktop\Desktop\Project one\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+C:\Users\PaSiYa\Desktop\Desktop\Project one\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\PaSiYa\Desktop\Desktop\Project one\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Login.resources
+C:\Users\PaSiYa\Desktop\Desktop\Project one\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Management_Employee.resources
+C:\Users\PaSiYa\Desktop\Desktop\Project one\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+C:\Users\PaSiYa\Desktop\Desktop\Project one\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+C:\Users\PaSiYa\Desktop\Desktop\Project one\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+C:\Users\PaSiYa\Desktop\Desktop\Project one\Employee Management System\Employee Management System\obj\Debug\Employee Management System.exe
+C:\Users\PaSiYa\Desktop\Desktop\Project one\Employee Management System\Employee Management System\obj\Debug\Employee Management System.pdb
+C:\Users\PaSiYa\Desktop\Desktop\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe.config
+C:\Users\PaSiYa\Desktop\Desktop\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe
+C:\Users\PaSiYa\Desktop\Desktop\Employee Management System\Employee Management System\bin\Debug\Employee Management System.pdb
+C:\Users\PaSiYa\Desktop\Desktop\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+C:\Users\PaSiYa\Desktop\Desktop\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\PaSiYa\Desktop\Desktop\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Login.resources
+C:\Users\PaSiYa\Desktop\Desktop\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+C:\Users\PaSiYa\Desktop\Desktop\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+C:\Users\PaSiYa\Desktop\Desktop\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+C:\Users\PaSiYa\Desktop\Desktop\Employee Management System\Employee Management System\obj\Debug\Employee Management System.exe
+C:\Users\PaSiYa\Desktop\Desktop\Employee Management System\Employee Management System\obj\Debug\Employee Management System.pdb
+C:\Users\PaSiYa\Desktop\Desktop\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Registration.resources
+C:\Users\PaSiYa\Desktop\Desktop\project\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe.config
+C:\Users\PaSiYa\Desktop\Desktop\project\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe
+C:\Users\PaSiYa\Desktop\Desktop\project\Employee Management System\Employee Management System\bin\Debug\Employee Management System.pdb
+C:\Users\PaSiYa\Desktop\Desktop\project\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+C:\Users\PaSiYa\Desktop\Desktop\project\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\PaSiYa\Desktop\Desktop\project\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Login.resources
+C:\Users\PaSiYa\Desktop\Desktop\project\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+C:\Users\PaSiYa\Desktop\Desktop\project\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Registration.resources
+C:\Users\PaSiYa\Desktop\Desktop\project\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+C:\Users\PaSiYa\Desktop\Desktop\project\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+C:\Users\PaSiYa\Desktop\Desktop\project\Employee Management System\Employee Management System\obj\Debug\Employee Management System.exe
+C:\Users\PaSiYa\Desktop\Desktop\project\Employee Management System\Employee Management System\obj\Debug\Employee Management System.pdb
